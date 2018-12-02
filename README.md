@@ -11,12 +11,12 @@ let logger = new Logger({
     ]
 })
 ```
-######TODO add DBTarget and FileTarget and SyslogTarget
+###### TODO add DBTarget and FileTarget and SyslogTarget
 And use
 ```typescript
 logger.info("string message", ["some vars to debug"], 'log category', ['some', 'tags']);
 ```
-######TODO add tests
+###### TODO add tests
 
 ## LICENSE
 
