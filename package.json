@@ -1,0 +1,14 @@
+{
+  "name": "logger",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/Logger.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wir_wolf",
+  "license": "ISC",
+  "dependencies": {
+    "stacktrace-parser": "git+ssh://git@github.com:SomeBlackMagic/stacktrace-parser.git#master"
+  }
+}
